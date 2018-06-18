@@ -1,2 +1,2 @@
 # blog-app
-blog app using react-redux and router.
+Simple blog app using React.js and redux. 
